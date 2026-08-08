@@ -25,8 +25,3 @@ This project analyzes sales transactions and product catalog data to uncover rev
 - Python (pandas, scikit-learn, matplotlib, seaborn)
 - Power BI (Power Query, DAX)
 
-## Key Insights
-- [Add 2–3 bullet points of your actual findings here, e.g. "Electronics category had the highest average margin at X%"]
-
-## Dashboard Preview
-[Add a screenshot of your final Power BI dashboard here]
