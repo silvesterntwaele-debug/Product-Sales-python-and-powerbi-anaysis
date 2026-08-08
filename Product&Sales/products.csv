@@ -1,0 +1,32 @@
+ProductID,ProductName,Category,SubCategory,UnitCost,UnitPrice,SupplierName
+PROD0001,Headphones,Electronics,Headphones,850.13,1466.86,Massmart Group
+PROD0002,Bluetooth Speaker,Electronics,Bluetooth Speaker,410.85,746.98,Massmart Group
+PROD0003,Smartphone Case,Electronics,Smartphone Case,669.04,1220.01,Makro Wholesale
+PROD0004,Power Bank,Electronics,Power Bank,109.45,236.83,Local SA Traders
+PROD0005,USB-C Cable,Electronics,USB-C Cable,540.8,686.66,Builders Warehouse
+PROD0006,Wireless Mouse,Electronics,Wireless Mouse,744.64,1338.44,Game Distributors
+PROD0007,Keyboard,Electronics,Keyboard,439.34,821.1,Takealot Supply Co
+PROD0008,Monitor Stand,Electronics,Monitor Stand,187.9,339.36,Builders Warehouse
+PROD0009,Kettle,Home & Kitchen,Kettle,738.39,1602.75,Massmart Group
+PROD0010,Toaster,Home & Kitchen,Toaster,332.73,521.27,Builders Warehouse
+PROD0011,Blender,Home & Kitchen,Blender,121.0,169.74,Massmart Group
+PROD0012,Air Fryer,Home & Kitchen,Air Fryer,633.5,965.33,Massmart Group
+PROD0013,Cookware Set,Home & Kitchen,Cookware Set,737.8,1307.82,Massmart Group
+PROD0014,Coffee Machine,Home & Kitchen,Coffee Machine,106.61,158.83,Makro Wholesale
+PROD0015,Running Shoes,Sportswear,Running Shoes,874.06,1428.18,Local SA Traders
+PROD0016,Gym Bag,Sportswear,Gym Bag,747.69,935.43,Local SA Traders
+PROD0017,Track Jacket,Sportswear,Track Jacket,431.92,562.14,Local SA Traders
+PROD0018,Soccer Ball,Sportswear,Soccer Ball,344.75,678.68,Builders Warehouse
+PROD0019,Yoga Mat,Sportswear,Yoga Mat,414.58,538.55,Takealot Supply Co
+PROD0020,Water Bottle,Sportswear,Water Bottle,507.82,1082.31,Massmart Group
+PROD0021,Notebook,Office Supplies,Notebook,796.34,1362.12,Makro Wholesale
+PROD0022,Desk Organizer,Office Supplies,Desk Organizer,876.64,1602.87,Game Distributors
+PROD0023,Printer Paper,Office Supplies,Printer Paper,647.51,1000.54,Makro Wholesale
+PROD0024,Stapler,Office Supplies,Stapler,510.46,683.28,Makro Wholesale
+PROD0025,Whiteboard,Office Supplies,Whiteboard,431.46,587.47,Game Distributors
+PROD0026,Pen Set,Office Supplies,Pen Set,463.59,895.09,Local SA Traders
+PROD0027,Rooibos Tea Box,Groceries,Rooibos Tea Box,643.71,1058.72,Massmart Group
+PROD0028,Maize Meal 5kg,Groceries,Maize Meal 5kg,882.81,1307.92,Local SA Traders
+PROD0029,Cooking Oil 2L,Groceries,Cooking Oil 2L,155.84,223.02,Local SA Traders
+PROD0030,Rice 5kg,Groceries,Rice 5kg,472.17,984.64,Makro Wholesale
+PROD0031,Sugar 2kg,Groceries,Sugar 2kg,270.34,540.82,Massmart Group
